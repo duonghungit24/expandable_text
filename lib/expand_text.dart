@@ -1,1 +1,1 @@
-export 'expandable_text.dart';
+export 'src/expandable_text.dart';
